@@ -9,7 +9,7 @@ Window {
     Item {
         anchors.fill: parent
         XButton {
-
+            btnColor: "black"
             onClick: {
                 console.log("我被点击了")
             }
