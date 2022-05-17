@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/MouseArea/XMoveArea.qml</file>
+        <file>qml/Item/XDragItem.qml</file>
+        <file>qml/Button/XButton.qml</file>
+    </qresource>
+</RCC>
